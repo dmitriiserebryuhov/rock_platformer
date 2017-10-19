@@ -52,7 +52,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BackgroundParalax.cs" />
+     <Compile Include="Assets\Scripts\Kill_Respan.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />
+     <Compile Include="Assets\Scripts\Standart\Camera2DFollow.cs" />
+     <Compile Include="Assets\Scripts\Standart\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Standart\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\Scripts\Standart\PlatformerCharacter2D.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

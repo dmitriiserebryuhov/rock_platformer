@@ -1,11 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BackgroundParalax.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Kill_Respan.cs">
     <Files>
-      <File FileName="Assets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\2D\Scripts\Camera2DFollow.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\BackgroundParalax.cs" Line="42" Column="1" />
-      <File FileName="Assets\Scripts\Scroll.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\Kill_Respan.cs" Line="18" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
